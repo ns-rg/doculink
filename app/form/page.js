@@ -91,12 +91,12 @@ export default function StudentForm() {
     };
 
     return (
-        <div className="min-h-screen w-full bg-blue-100 p-4 flex items-center justify-center">
-            <Card className="w-full max-w-4xl">
+        <div className="h-full w-full flex items-center justify-center">
+            <Card className="w-screen h-screen">
                 <CardHeader>
-                    <CardTitle className="text-2xl md:text-3xl font-bold text-center">Student Registration Form</CardTitle>
+                    <CardTitle className="text-2xl md:text-3xl font-bold text-center">Student Registration Form for B.S Patel Institute of Technology</CardTitle>
                 </CardHeader>
-                <CardContent>
+                <CardContent className="mt-5">
                     <form onSubmit={handleSubmit} className="space-y-6">
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                             <div className="space-y-2">
