@@ -3,6 +3,10 @@ Doculink is a modern, responsive student registration form built with Next.js. I
 
 It is currently used by **B.S Patel Polytechnic Institute of Technology, Ganpat Univeristy**. It can be modified for any institution and if you want to use it for your institution, please contact me on **nisjp.14@gmail.com**.
 
+![landing](https://github.com/NisargPatel14/doculink/blob/master/Landing.JPG)
+
+![landing](https://github.com/NisargPatel14/doculink/blob/master/Form.JPG)
+
 ## Key Features
 
 - **Responsive Design**: Adapts seamlessly to various screen sizes for optimal user experience on both desktop and mobile devices.
