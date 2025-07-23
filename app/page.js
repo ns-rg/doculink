@@ -10,7 +10,7 @@ export default function LandingPage() {
         <Link href="/form">
           <Button className="text-lg px-6 py-3">Start Registration</Button>
         </Link>
-        <Link href="https://github.com/NisargPatel14/Doculink">
+        <Link href="https://github.com/ns-rg/Doculink">
           <Button className="text-lg px-6 py-3">View on Github</Button>
         </Link>
       </div>
